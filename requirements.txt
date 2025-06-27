@@ -1,0 +1,5 @@
+numpy==1.26.4
+polars==1.30.0
+polars-talib==0.1.5
+ta-lib==0.6.3
+pyinstrument==5.0.2
